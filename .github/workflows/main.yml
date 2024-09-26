@@ -31,3 +31,4 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AKIAYS2NV4W4BVYOEX57}}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.BAvBnvUVETL8NqayC/82olrEC41Y2n02JqhyAS9I }}
           AWS_REGION: "us-east-1" # optional: defaults to us-east-1
+# just made a change on the keys
